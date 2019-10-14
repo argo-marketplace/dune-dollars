@@ -1,10 +1,11 @@
 # dune-dollars
 The goal of the project is to pilot the world’s first ever blockchain token for water conservation. This token will be called Dune Dollars (or Dune$). The purpose of Dune$ is to support the ongoing market transformation in making water conservation a way of life. 
 
-### Project Description  (Maximum of 15 points) Provide a concise summary that includes an overall description of the project. Convey a clear understanding of goals, objectives, and strategies for achieving them.
 
-  
-The goal of the project is to prototype the world’s first ever blockchain token for water conservation. This token will be called Dune Dollars (or `Dune$`). The purpose of Dune$ is to support the ongoing market transformation in making water conservation a way of life.
+
+## What
+
+Prototyping the world’s first ever blockchain token for water conservation. This token will be called Dune Dollars (or `Dune$`). The purpose of Dune$ is to support the ongoing market transformation in making water conservation a way of life.
 
 [Recent research](http://sro.sussex.ac.uk/id/eprint/71257/) supports the thesis that water conservation is motivated by a complex of monetary and non-monetary factors. This research in behavioral economics supported by a very large randomized controlled trial across over 400,000 free standing households in Cape Town, South Africa indicates evidence of water usage and its subsequent conservation is motivated by specific socio-economic interventions across the income spectrum
 
@@ -39,10 +40,7 @@ The pilot includes developing creative collaborations that incentivize water eff
 
 These incentives will be developed as part of a stakeholder process and refined into a whitepaper (standard practice for new blockchain tokens). The whitepaper will also be used as the basis for developing a working prototype of Dune$ using the ethereum blockchain (or similar). The prototype will then be tested using live water usage data from water utilities and households that agree to participate in the experiment.
 
-  
-  
-
-### Research Plan
+## How
 
 1. The first task is to develop a white paper clearly describing the principles and incentives for the Dune$ token. This whitepaper will build on ongoing CaDC research into what motivates water conservation. Research from behavioral economics will be incorporated to guide targeted messaging and marketing efforts around Dune$
 
@@ -64,17 +62,12 @@ Tokens are anticipated to be redeemable for the following three types of incenti
     
 - Public recognition through social media and special access to celebrity special events. For example lifting with Arnold Schwarzenegger, climbing with Alex Honnold, selfies with Kendall Jenner.
     
-
-  
-
 These are but starting categories and this pilot project will endeavor to develop other creative redemption mechanisms with conservation stakeholders.
 
   
   
 
-### Market And Impact Potential 
-
-  
+## So what?
 
 Since we use historical water usage data, Team ARGO can issue Dune$ to households based on their existing conservation behavior and incentivise further conservation by having single family households across the income spectrum participate in accruing Dune$.
 
