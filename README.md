@@ -7,10 +7,12 @@ The goal of the project is to pilot the world’s first ever blockchain token fo
 
 Prototyping the world’s first ever blockchain token for water conservation. This token will be called Dune Dollars (or `Dune$`). The purpose of Dune$ is to support the ongoing market transformation in making water conservation a way of life.
 
-[Recent research](http://sro.sussex.ac.uk/id/eprint/71257/) supports the thesis that water conservation is motivated by a complex of monetary and non-monetary factors. This research in behavioral economics supported by a very large randomized controlled trial across over 400,000 free standing households in Cape Town, South Africa indicates evidence of water usage and its subsequent conservation is motivated by specific socio-economic interventions across the income spectrum
+[Recent research](https://www.researchgate.net/profile/Martine_Visser/publication/323255576_Behavioural_Nudges_for_Water_Conservation_Experimental_Evidence_from_Cape_Town/links/5a89e35caca272017e621945/Behavioural-Nudges-for-Water-Conservation-Experimental-Evidence-from-Cape-Town.pdf) supports the thesis that water conservation is motivated by a complex of monetary and non-monetary factors. This research in behavioral economics supported by a very large randomized controlled trial across over 400,000 free standing households in Cape Town, South Africa indicates evidence of water usage and its subsequent conservation is motivated by specific socio-economic interventions across the income spectrum.
 
  
-The research finds that “lower income households respond only to financial incentives, whereas higher income households respond only to social incentives and appeals to their intrinsic motivation” when engaging in conservation behavior. Furthermore, the research also finds that:
+The research finds that “lower income households respond only to financial incentives, whereas higher income households respond only to social incentives and appeals to their intrinsic motivation” when engaging in conservation behavior. 
+
+Furthermore, the research also finds that:
 
 > public recognition can be used as an adjunct to more traditional
 > demand side management tools, such as water restrictions and tariff
